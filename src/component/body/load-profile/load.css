@@ -1,0 +1,40 @@
+.profilecart{
+   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.315);
+    width: 93%;
+    padding: 30px 0px;
+    border-radius: 7px;
+    background-color: rgba(255, 248, 220, 0.747);
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.about{
+    margin-left: 28px;
+}
+.about p{
+    font-size: 16px;
+}
+.button{
+    width: 90%;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 7px;
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(11, 212, 4);
+    border: none;
+    border-radius: 5px;
+}
+.button i{
+    margin-right: 5px;
+}
+.name{
+   color: rgba(112, 133, 117, 0.973);
+}

@@ -1,0 +1,13 @@
+.addcart{
+    background-color: rgba(255, 255, 255, 0.301);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.greens{
+    background-color: rgba(253, 165, 2, 0.959);
+    padding: 3px 10px;
+}
+.addname{
+    margin-left: 10px;
+    color: #000;
+}
